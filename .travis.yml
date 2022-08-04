@@ -1,3 +1,5 @@
 language: rust
 rust:
   - stable
+notifications:
+  slack: 'gi0cann:Mwa9FNztXXyX2XrkNOPnXYAd'
