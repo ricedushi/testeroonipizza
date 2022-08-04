@@ -2,4 +2,4 @@ language: rust
 rust:
   - stable
 notifications:
-  slack: 'gi0cann:Mwa9FNztXXyX2XrkNOPnXYAd'
+  slack: 'travic-ci:Mwa9FNztXXyX2XrkNOPnXYAd'
