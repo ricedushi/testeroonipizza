@@ -2,4 +2,4 @@ language: rust
 rust:
   - stable
 notifications:
-  slack: 'travic-ci:Mwa9FNztXXyX2XrkNOPnXYAd'
+  slack: purpecell:Mwa9FNztXXyX2XrkNOPnXYAd
